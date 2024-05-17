@@ -1,0 +1,45 @@
+body{
+    background-position-x: center;
+    background-position-y:1100px;
+    
+}
+table{
+    background-color: black;
+    color: aliceblue;
+    margin-right: 20px;
+}
+.Pag{
+    text-align: center;
+}
+.Pedropedropedropedro{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border: 1px solid black;
+    background-color: rgba(65, 65, 65, 0.546);
+    text-align: center;
+    
+}
+.d{
+    color: rgb(52, 200, 200);
+}
+.w{
+    color: rgb(227, 227, 48);
+}
+h2{
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+img{
+ width: 510px;
+
+}
+.contenido {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
